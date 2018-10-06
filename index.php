@@ -1,6 +1,6 @@
 <?php 
 
-$page_title = '';
+$page_title = 'Lab 7';
 include('includes/header.html');
 
 ?>
@@ -11,5 +11,5 @@ include('includes/header.html');
 <?php
 
 
-include('../includes/footer.html');
+include('includes/footer.html');
 ?>
